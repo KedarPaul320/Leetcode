@@ -21,11 +21,13 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/KedarPaul320/Leetcode/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/KedarPaul320/Leetcode/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KedarPaul320/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0054-spiral-matrix](https://github.com/KedarPaul320/Leetcode/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KedarPaul320/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KedarPaul320/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KedarPaul320/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -87,5 +89,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/KedarPaul320/Leetcode/tree/master/0054-spiral-matrix) |
 | [1672-richest-customer-wealth](https://github.com/KedarPaul320/Leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
