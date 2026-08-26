@@ -39,6 +39,7 @@
 | [0001-two-sum](https://github.com/KedarPaul320/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KedarPaul320/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/KedarPaul320/Leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/KedarPaul320/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/KedarPaul320/Leetcode/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KedarPaul320/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KedarPaul320/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -85,6 +86,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/KedarPaul320/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KedarPaul320/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KedarPaul320/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/KedarPaul320/Leetcode/tree/master/0509-fibonacci-number) |
@@ -146,6 +148,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/KedarPaul320/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/KedarPaul320/Leetcode/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/KedarPaul320/Leetcode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
