@@ -47,6 +47,7 @@
 | [0088-merge-sorted-array](https://github.com/KedarPaul320/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KedarPaul320/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KedarPaul320/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/KedarPaul320/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KedarPaul320/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/KedarPaul320/Leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/KedarPaul320/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -115,6 +116,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/KedarPaul320/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/KedarPaul320/Leetcode/tree/master/0231-power-of-two) |
 ## Prefix Sum
 |  |
