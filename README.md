@@ -50,6 +50,7 @@
 | [0136-single-number](https://github.com/KedarPaul320/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KedarPaul320/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/KedarPaul320/Leetcode/tree/master/0169-majority-element) |
+| [0260-single-number-iii](https://github.com/KedarPaul320/Leetcode/tree/master/0260-single-number-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/KedarPaul320/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/KedarPaul320/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0704-binary-search](https://github.com/KedarPaul320/Leetcode/tree/master/0704-binary-search) |
@@ -118,6 +119,7 @@
 | ------- |
 | [0136-single-number](https://github.com/KedarPaul320/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/KedarPaul320/Leetcode/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/KedarPaul320/Leetcode/tree/master/0260-single-number-iii) |
 ## Prefix Sum
 |  |
 | ------- |
