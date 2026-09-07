@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KedarPaul320/Leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/KedarPaul320/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KedarPaul320/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/KedarPaul320/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KedarPaul320/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -84,6 +85,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/KedarPaul320/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/KedarPaul320/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/KedarPaul320/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KedarPaul320/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -136,6 +138,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/KedarPaul320/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KedarPaul320/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/KedarPaul320/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KedarPaul320/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
