@@ -1,9 +1,5 @@
 class Solution:
-    def getIntersectionNode(self, headA: ListNode, headB: ListNode) -> Optional[ListNode]:
-        # Handle empty lists immediately
-        if not headA or not headB:
-            return None
-            
+    def getIntersectionNode(self, headA: ListNode, headB: ListNode) -> Optional[ListNode]:     
         p1 = headA
         p2 = headB 
         
