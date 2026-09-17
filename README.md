@@ -66,6 +66,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/KedarPaul320/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/KedarPaul320/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/KedarPaul320/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/KedarPaul320/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/KedarPaul320/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KedarPaul320/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/KedarPaul320/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -277,6 +278,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/KedarPaul320/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/KedarPaul320/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/KedarPaul320/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/KedarPaul320/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/KedarPaul320/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -296,4 +298,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/KedarPaul320/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/KedarPaul320/Leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
