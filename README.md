@@ -280,6 +280,7 @@
 | [0496-next-greater-element-i](https://github.com/KedarPaul320/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/KedarPaul320/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/KedarPaul320/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/KedarPaul320/Leetcode/tree/master/0901-online-stock-span) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -290,6 +291,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/KedarPaul320/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/KedarPaul320/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/KedarPaul320/Leetcode/tree/master/0901-online-stock-span) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -299,4 +301,9 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/KedarPaul320/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/KedarPaul320/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/KedarPaul320/Leetcode/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/KedarPaul320/Leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
