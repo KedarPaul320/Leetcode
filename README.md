@@ -65,6 +65,7 @@
 | [0260-single-number-iii](https://github.com/KedarPaul320/Leetcode/tree/master/0260-single-number-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/KedarPaul320/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/KedarPaul320/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0496-next-greater-element-i](https://github.com/KedarPaul320/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/KedarPaul320/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KedarPaul320/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/KedarPaul320/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -88,6 +89,7 @@
 | [0242-valid-anagram](https://github.com/KedarPaul320/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/KedarPaul320/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/KedarPaul320/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/KedarPaul320/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KedarPaul320/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KedarPaul320/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2965-find-missing-and-repeated-values](https://github.com/KedarPaul320/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -274,6 +276,7 @@
 | [0225-implement-stack-using-queues](https://github.com/KedarPaul320/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/KedarPaul320/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/KedarPaul320/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/KedarPaul320/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/KedarPaul320/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -289,4 +292,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KedarPaul320/Leetcode/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/KedarPaul320/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
