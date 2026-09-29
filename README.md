@@ -64,6 +64,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KedarPaul320/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/KedarPaul320/Leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/KedarPaul320/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/KedarPaul320/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/KedarPaul320/Leetcode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/KedarPaul320/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KedarPaul320/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -193,6 +194,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/KedarPaul320/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/KedarPaul320/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/KedarPaul320/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1672-richest-customer-wealth](https://github.com/KedarPaul320/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2965-find-missing-and-repeated-values](https://github.com/KedarPaul320/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
@@ -204,6 +206,7 @@
 | [0069-sqrtx](https://github.com/KedarPaul320/Leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/KedarPaul320/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KedarPaul320/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/KedarPaul320/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/KedarPaul320/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KedarPaul320/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/KedarPaul320/Leetcode/tree/master/0704-binary-search) |
@@ -225,6 +228,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/KedarPaul320/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/KedarPaul320/Leetcode/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/KedarPaul320/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/KedarPaul320/Leetcode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
