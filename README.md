@@ -72,6 +72,7 @@
 | [0435-non-overlapping-intervals](https://github.com/KedarPaul320/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/KedarPaul320/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/KedarPaul320/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/KedarPaul320/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/KedarPaul320/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KedarPaul320/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/KedarPaul320/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -97,6 +98,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/KedarPaul320/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/KedarPaul320/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/KedarPaul320/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/KedarPaul320/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KedarPaul320/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KedarPaul320/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2965-find-missing-and-repeated-values](https://github.com/KedarPaul320/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -158,6 +160,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/KedarPaul320/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/KedarPaul320/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/KedarPaul320/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
