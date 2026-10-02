@@ -79,6 +79,7 @@
 | [0875-koko-eating-bananas](https://github.com/KedarPaul320/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/KedarPaul320/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/KedarPaul320/Leetcode/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/KedarPaul320/Leetcode/tree/master/1046-last-stone-weight) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KedarPaul320/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KedarPaul320/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/KedarPaul320/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -244,6 +245,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KedarPaul320/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/KedarPaul320/Leetcode/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/KedarPaul320/Leetcode/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
 | ------- |
