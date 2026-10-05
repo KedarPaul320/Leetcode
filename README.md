@@ -35,6 +35,7 @@
 | [0443-string-compression](https://github.com/KedarPaul320/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/KedarPaul320/Leetcode/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/KedarPaul320/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/KedarPaul320/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/KedarPaul320/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KedarPaul320/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/KedarPaul320/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -322,6 +323,7 @@
 | [0496-next-greater-element-i](https://github.com/KedarPaul320/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/KedarPaul320/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/KedarPaul320/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/KedarPaul320/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/KedarPaul320/Leetcode/tree/master/0901-online-stock-span) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/KedarPaul320/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Floyd's Cycle Finding Algorithm
@@ -340,6 +342,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KedarPaul320/Leetcode/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/KedarPaul320/Leetcode/tree/master/0856-score-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
