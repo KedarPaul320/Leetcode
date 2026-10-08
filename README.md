@@ -37,6 +37,7 @@
 | [0844-backspace-string-compare](https://github.com/KedarPaul320/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/KedarPaul320/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KedarPaul320/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/KedarPaul320/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/KedarPaul320/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KedarPaul320/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/KedarPaul320/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -333,6 +334,7 @@
 | [0856-score-of-parentheses](https://github.com/KedarPaul320/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/KedarPaul320/Leetcode/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KedarPaul320/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/KedarPaul320/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/KedarPaul320/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -352,6 +354,7 @@
 | [0020-valid-parentheses](https://github.com/KedarPaul320/Leetcode/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/KedarPaul320/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KedarPaul320/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/KedarPaul320/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
