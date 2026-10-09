@@ -40,6 +40,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KedarPaul320/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/KedarPaul320/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/KedarPaul320/Leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KedarPaul320/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KedarPaul320/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/KedarPaul320/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -223,6 +224,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KedarPaul320/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/KedarPaul320/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KedarPaul320/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KedarPaul320/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Matrix
 |  |
 | ------- |
@@ -338,6 +340,7 @@
 | [0901-online-stock-span](https://github.com/KedarPaul320/Leetcode/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KedarPaul320/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/KedarPaul320/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KedarPaul320/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/KedarPaul320/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -358,6 +361,7 @@
 | [0856-score-of-parentheses](https://github.com/KedarPaul320/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KedarPaul320/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/KedarPaul320/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KedarPaul320/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Monotonic Stack
 |  |
 | ------- |
