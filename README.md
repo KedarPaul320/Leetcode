@@ -101,6 +101,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KedarPaul320/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/KedarPaul320/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/KedarPaul320/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/KedarPaul320/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/KedarPaul320/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -144,6 +145,7 @@
 | [0905-sort-array-by-parity](https://github.com/KedarPaul320/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/KedarPaul320/Leetcode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KedarPaul320/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/KedarPaul320/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Counting Sort
 |  |
 | ------- |
@@ -229,6 +231,7 @@
 | [0435-non-overlapping-intervals](https://github.com/KedarPaul320/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KedarPaul320/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KedarPaul320/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/KedarPaul320/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Matrix
 |  |
 | ------- |
@@ -255,6 +258,7 @@
 | [0704-binary-search](https://github.com/KedarPaul320/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KedarPaul320/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/KedarPaul320/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/KedarPaul320/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Queue
 |  |
 | ------- |
@@ -281,6 +285,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/KedarPaul320/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/KedarPaul320/Leetcode/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/KedarPaul320/Leetcode/tree/master/1046-last-stone-weight) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/KedarPaul320/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Merge Sort
 |  |
 | ------- |
