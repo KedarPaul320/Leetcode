@@ -103,6 +103,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/KedarPaul320/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/KedarPaul320/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KedarPaul320/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/KedarPaul320/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/KedarPaul320/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -461,4 +462,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KedarPaul320/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/KedarPaul320/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
