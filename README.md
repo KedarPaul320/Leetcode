@@ -264,6 +264,7 @@
 | [0287-find-the-duplicate-number](https://github.com/KedarPaul320/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KedarPaul320/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KedarPaul320/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/KedarPaul320/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/KedarPaul320/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KedarPaul320/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/KedarPaul320/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -477,4 +478,5 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/KedarPaul320/Leetcode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/KedarPaul320/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
