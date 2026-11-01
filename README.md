@@ -451,6 +451,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/KedarPaul320/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/KedarPaul320/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KedarPaul320/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0547-number-of-provinces](https://github.com/KedarPaul320/Leetcode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/KedarPaul320/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -480,6 +481,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/KedarPaul320/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/KedarPaul320/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/KedarPaul320/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/KedarPaul320/Leetcode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/KedarPaul320/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -531,4 +533,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KedarPaul320/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/KedarPaul320/Leetcode/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/KedarPaul320/Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
