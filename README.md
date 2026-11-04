@@ -326,6 +326,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KedarPaul320/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0743-network-delay-time](https://github.com/KedarPaul320/Leetcode/tree/master/0743-network-delay-time) |
 | [0912-sort-an-array](https://github.com/KedarPaul320/Leetcode/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/KedarPaul320/Leetcode/tree/master/1046-last-stone-weight) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KedarPaul320/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -463,6 +464,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KedarPaul320/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0547-number-of-provinces](https://github.com/KedarPaul320/Leetcode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/KedarPaul320/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0743-network-delay-time](https://github.com/KedarPaul320/Leetcode/tree/master/0743-network-delay-time) |
 ## Binary Tree
 |  |
 | ------- |
@@ -496,6 +498,7 @@
 | [0200-number-of-islands](https://github.com/KedarPaul320/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/KedarPaul320/Leetcode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/KedarPaul320/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0743-network-delay-time](https://github.com/KedarPaul320/Leetcode/tree/master/0743-network-delay-time) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -556,4 +559,13 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/KedarPaul320/Leetcode/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/KedarPaul320/Leetcode/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/KedarPaul320/Leetcode/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/KedarPaul320/Leetcode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
