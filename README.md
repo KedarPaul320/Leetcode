@@ -10,6 +10,7 @@
 | [0029-divide-two-integers](https://github.com/KedarPaul320/Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/KedarPaul320/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/KedarPaul320/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/KedarPaul320/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/KedarPaul320/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/KedarPaul320/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/KedarPaul320/Leetcode/tree/master/0189-rotate-array) |
@@ -36,6 +37,7 @@
 | [0038-count-and-say](https://github.com/KedarPaul320/Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/KedarPaul320/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/KedarPaul320/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/KedarPaul320/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/KedarPaul320/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/KedarPaul320/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/KedarPaul320/Leetcode/tree/master/0242-valid-anagram) |
@@ -56,6 +58,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/KedarPaul320/Leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/KedarPaul320/Leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/KedarPaul320/Leetcode/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/KedarPaul320/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/KedarPaul320/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -214,6 +217,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/KedarPaul320/Leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/KedarPaul320/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/KedarPaul320/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/KedarPaul320/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/KedarPaul320/Leetcode/tree/master/0231-power-of-two) |
