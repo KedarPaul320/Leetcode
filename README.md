@@ -17,6 +17,7 @@
 | [0231-power-of-two](https://github.com/KedarPaul320/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KedarPaul320/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/KedarPaul320/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/KedarPaul320/Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/KedarPaul320/Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/KedarPaul320/Leetcode/tree/master/0509-fibonacci-number) |
 | [0650-2-keys-keyboard](https://github.com/KedarPaul320/Leetcode/tree/master/0650-2-keys-keyboard) |
@@ -208,6 +209,7 @@
 | [0231-power-of-two](https://github.com/KedarPaul320/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/KedarPaul320/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/KedarPaul320/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/KedarPaul320/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/KedarPaul320/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -226,6 +228,7 @@
 | [0260-single-number-iii](https://github.com/KedarPaul320/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/KedarPaul320/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/KedarPaul320/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/KedarPaul320/Leetcode/tree/master/0342-power-of-four) |
 ## Prefix Sum
 |  |
 | ------- |
