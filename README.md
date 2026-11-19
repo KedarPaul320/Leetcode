@@ -45,6 +45,7 @@
 | [0125-valid-palindrome](https://github.com/KedarPaul320/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/KedarPaul320/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/KedarPaul320/Leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/KedarPaul320/Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/KedarPaul320/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/KedarPaul320/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/KedarPaul320/Leetcode/tree/master/0412-fizz-buzz) |
@@ -155,6 +156,7 @@
 | [0219-contains-duplicate-ii](https://github.com/KedarPaul320/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/KedarPaul320/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KedarPaul320/Leetcode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/KedarPaul320/Leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/KedarPaul320/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KedarPaul320/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/KedarPaul320/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
