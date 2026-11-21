@@ -57,6 +57,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KedarPaul320/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/KedarPaul320/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/KedarPaul320/Leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1143-longest-common-subsequence](https://github.com/KedarPaul320/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KedarPaul320/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KedarPaul320/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/KedarPaul320/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -213,6 +214,7 @@
 | [0509-fibonacci-number](https://github.com/KedarPaul320/Leetcode/tree/master/0509-fibonacci-number) |
 | [0650-2-keys-keyboard](https://github.com/KedarPaul320/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [1137-n-th-tribonacci-number](https://github.com/KedarPaul320/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/KedarPaul320/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Recursion
 |  |
 | ------- |
@@ -626,4 +628,8 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/KedarPaul320/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/KedarPaul320/Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
