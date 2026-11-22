@@ -1,23 +1,24 @@
 class Solution:
     def longestPalindromeSubseq(self, s: str) -> int:
-        text1 = s 
-        text2 = s[::-1]
-        # Store the lengths of both input strings
-        n, m = len(text1), len(text2)
-        # Initialize DP table with 0s so base cases (row 0 and col 0) are 0
-        dp = [[0 for _ in range(m + 1)] for _ in range(n + 1)]
-        
-        # Iterate through each character prefix of text1
-        for i in range(1, n + 1):
-            # Iterate through each character prefix of text2
-            for j in range(1, m + 1):
-                # If characters match, extend the diagonal subproblem result by 1
-                if text1[i - 1] == text2[j - 1]:
-                    dp[i][j] = 1 + dp[i - 1][j - 1]
-                # If characters differ, carry forward the maximum LCS from either top or left cell
+        # Store the length of the input string
+        n = len(s)
+        # Initialize two 1D arrays to represent the current row (dp) and the row below it (prev_dp)
+        dp, prev_dp = [0] * n, [0] * n
+
+        # Iterate backwards from the last character to the first to build substrings bottom-up
+        for i in range(n - 1, -1, -1):
+            # Base case: any single character substring s[i..i] is a palindrome of length 1
+            dp[i] = 1
+            # Expand the substring's right endpoint j forward from i + 1 to the end
+            for j in range(i + 1, n):
+                # If outer characters match, add 2 to the longest palindrome inside s[i+1..j-1]
+                if s[i] == s[j]:
+                    dp[j] = 2 + prev_dp[j - 1]
+                # If characters differ, take the max result from excluding either s[i] or s[j]
                 else:
-                    dp[i][j] = max(dp[i - 1][j], dp[i][j - 1])
-                    
-        # Return the bottom-right cell containing the final LCS length for the full strings
-        return dp[n][m]
-        
+                    dp[j] = max(prev_dp[j], dp[j - 1])
+            # Copy the current row's results into prev_dp before moving to the next outer index i
+            prev_dp = dp[:]
+
+        # Return the result for the full string spanning from index 0 to n - 1
+        return dp[n - 1]
