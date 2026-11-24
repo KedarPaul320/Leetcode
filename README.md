@@ -61,6 +61,7 @@
 | [1108-defanging-an-ip-address](https://github.com/KedarPaul320/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/KedarPaul320/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KedarPaul320/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1768-merge-strings-alternately](https://github.com/KedarPaul320/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KedarPaul320/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/KedarPaul320/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -292,6 +293,7 @@
 | [0844-backspace-string-compare](https://github.com/KedarPaul320/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/KedarPaul320/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/KedarPaul320/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [1768-merge-strings-alternately](https://github.com/KedarPaul320/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
