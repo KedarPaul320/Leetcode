@@ -8,6 +8,3 @@ class Solution:
             elif (i+extraCandies) < maxCandies:
                 result.append(False)
         return result
-
-
-        
